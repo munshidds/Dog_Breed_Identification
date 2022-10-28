@@ -1,6 +1,6 @@
 # Dog_Breed_Identification
 
-in this project model will predict breed of a given dog image, i got 92% of accuracy while testing
+in this project model will predict breed of a given dog image, i got 92% of accuracy while testing the model
 
 
 
